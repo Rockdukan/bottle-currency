@@ -12,7 +12,7 @@
 ## ⚙️ Установка и запуск
 ```bash
 git clone https://gitverse.ru/Rockdukan/bottle-currency.git
-cd bottle-base
+cd bottle-currency
 uv venv
 uv run main.py
 ```
